@@ -19,6 +19,10 @@ This mod supports:
 - **NeoForge 1.21**
 - **Fabric 1.21**
 
+## Localization
+
+The mod includes built-in translations for over 30 languages (including Spanish, French, German, Chinese, Japanese, Russian, and more). The Giant Dragon Egg will display correctly in your native language across all supported mod loaders.
+
 ## License
 
 This project is licensed under the GNU AGPL 3.0 License - see the [LICENSE](LICENSE) file for details.

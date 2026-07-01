@@ -2,6 +2,11 @@
 
 All notable changes to the Giant Dragon Egg mod will be documented in this file.
 
+## [1.0.1] - 2026-07-01
+
+### Added
+- Added full localization support for the mod across 30+ languages, meaning the Giant Dragon Egg name is now properly translated globally across Forge, NeoForge, and Fabric.
+
 ## [1.0.0] - 2026-07-01
 
 ### Added
