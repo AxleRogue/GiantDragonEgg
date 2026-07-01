@@ -1,0 +1,20 @@
+﻿{
+    "required":  true,
+    "minVersion":  "0.8",
+    "package":  "me.axlerogue.giantdragonegg.mixin",
+    "refmap":  "${mod_id}.refmap.json",
+    "compatibilityLevel":  "JAVA_18",
+    "mixins":  [
+                   "BlockItemMixin",
+                   "DragonEggBlockMixin"
+               ],
+    "client":  [
+                   "MixinMinecraft"
+               ],
+    "server":  [
+
+               ],
+    "injectors":  {
+                      "defaultRequire":  1
+                  }
+}

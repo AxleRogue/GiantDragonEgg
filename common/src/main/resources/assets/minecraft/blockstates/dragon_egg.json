@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "giant=true": {
+      "model": "minecraft:block/giant_dragon_egg"
+    },
+    "giant=false": {
+      "model": "minecraft:block/dragon_egg"
+    }
+  }
+}
