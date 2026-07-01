@@ -15,8 +15,9 @@ The egg functions exactly like the standard one:
 ## Compatibility
 
 This mod supports:
-- **Forge 1.20.1**
-- **NeoForge 1.21.1** *(Tested on 1.21.1-21.1.234 latest)*
+- **Forge 1.21.1**
+- **NeoForge 1.21.1**
+- **Fabric 1.21.1**
 
 ## License
 
